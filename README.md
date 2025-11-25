@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12.10-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/PyTeleBotAPI-4.29.1-lightseagreen?style=for-the-badge&logo=telegram" />
-  <img src="https://img.shields.io/badge/Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inactive-brightred?style=for-the-badge" />
 </p>
 
 ---
@@ -50,5 +50,6 @@ pip install pyTelegramBotAPI==4.29.1
 <p align="center">
   <i>Есть ещё несколько функций которые я надеюсь написать, когда нибудь авось напишу 🙏</i>
 </p>
+
 
 
